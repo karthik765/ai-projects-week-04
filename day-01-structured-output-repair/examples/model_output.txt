@@ -1,0 +1,7 @@
+```json
+{
+  "answer": "The process is ready.",
+  "confidence": 0.92,
+  "sources": ["runbook.md", "status.json"],
+}
+```
