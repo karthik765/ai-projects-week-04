@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-05T13:00:00Z","request_id":"r-1","model":"gpt-4o-mini","input_tokens":800,"output_tokens":220,"latency_ms":410,"status":"success","team":"support"}
+{"timestamp":"2026-10-05T13:01:00Z","request_id":"r-2","model":"gpt-4o-mini","input_tokens":1200,"output_tokens":350,"latency_ms":630,"status":"success","team":"support"}
+{"timestamp":"2026-10-05T13:02:00Z","request_id":"r-3","model":"gpt-4o","input_tokens":600,"output_tokens":180,"latency_ms":980,"status":"error","team":"research"}
+{"timestamp":"2026-10-05T13:03:00Z","request_id":"r-4","model":"gpt-4o","input_tokens":900,"output_tokens":260,"latency_ms":720,"status":"success","team":"research"}
